@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.active-tab {
+  font-family: 'Roboto';
+  color: #2563eb;
+  background-color: transparent;
+  outline: none;
+  border-bottom: 2px solid #2563eb;
+  border-right-width: 0;
+  border-top-width: 0;
+  border-left-width: 0;
+  font-weight: 600;
+  font-size: 17px;
+}
+.in-active-tab {
+  font-family: 'Roboto';
+  color: #7b8794;
+  background-color: transparent;
+  outline: none;
+
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-top-width: 0;
+  border-left-width: 0;
+  font-weight: 600;
+  font-size: 17px;
+}
